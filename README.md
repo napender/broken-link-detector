@@ -52,4 +52,22 @@ Valid links    : 20
 Broken links   : 3
 
 ```
-   
+---
+## 🛠 Tech Stack
+* Java 11+
+* Maven
+* JSoup
+* HTTP Client (`java.net.http`)
+
+---
+👤 Author
+
+Napendra Singh
+
+Senior SDET | Building test tools, frameworks & real-world QA solutions
+
+---
+📌 License
+
+MIT License – free to use, improve, and contribute.
+
