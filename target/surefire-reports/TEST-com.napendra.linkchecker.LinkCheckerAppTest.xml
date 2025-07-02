@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/24.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/napendra/broken-link-detector/target/surefire/surefirebooter-20250702000423677_3.jar /Users/napendra/broken-link-detector/target/surefire 2025-07-02T00-04-23_633-jvmRun1 surefire-20250702000423677_1tmp surefire_0-20250702000423677_2tmp"/>
+    <property name="sun.java.command" value="/Users/napendra/broken-link-detector/target/surefire/surefirebooter-20250703012304746_3.jar /Users/napendra/broken-link-detector/target/surefire 2025-07-03T01-23-04_703-jvmRun1 surefire-20250703012304746_1tmp surefire_0-20250703012304746_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/napendra/broken-link-detector/target/test-classes:/Users/napendra/broken-link-detector/target/classes:/Users/napendra/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/napendra/.m2/repository/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/napendra/broken-link-detector/target/surefire/surefirebooter-20250702000423677_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/napendra/broken-link-detector/target/surefire/surefirebooter-20250703012304746_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="24.0.1"/>
