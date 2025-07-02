@@ -13,8 +13,23 @@ A simple and powerful Java CLI tool that scans any webpage for broken links and 
 - Easy to run from command line
 
 ---
+## 🚀 How to Run ( using .jar )
 
-## 🚀 How to Run
+### 💻 Windows
+1. Download broken-link-detector.jar & run-link-checker.bat in same directory.
+2. Double-click `run-link-checker.bat`.
+
+### 🍏 macOS
+1. Download broken-link-detector.jar & run-link-checker.command in same directory.
+2. Double-click `run-link-checker.command`.
+
+### 🐧 Linux
+1. Download broken-link-detector.jar & run-link-checker.sh in same directory.
+2. Make script executable:
+   ```bash
+   chmod +x run-link-checker.sh
+---
+## 🚀 How to Run ( Using code )
 
 1. Clone the repo:
 
