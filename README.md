@@ -16,15 +16,15 @@ A simple and powerful Java CLI tool that scans any webpage for broken links and 
 ## 🚀 How to Run ( using .jar )
 
 ### 💻 Windows
-1. Download broken-link-detector.jar & run-link-checker.bat in same directory.
+1. Download [`broken-link-detector.jar`](https://github.com/napender/broken-link-detector/blob/main/broken-link-detector.jar) & [`run-link-checker.bat`](https://github.com/napender/broken-link-detector/blob/main/run-link-checker.bat) in same directory.
 2. Double-click `run-link-checker.bat`.
 
 ### 🍏 macOS
-1. Download broken-link-detector.jar & run-link-checker.command in same directory.
+1. Download [`broken-link-detector.jar`](https://github.com/napender/broken-link-detector/blob/main/broken-link-detector.jar) & [`run-link-checker.command`](https://github.com/napender/broken-link-detector/blob/main/run-link-checker.command) in same directory.
 2. Double-click `run-link-checker.command`.
 
 ### 🐧 Linux
-1. Download broken-link-detector.jar & run-link-checker.sh in same directory.
+1. Download [`broken-link-detector.jar`](https://github.com/napender/broken-link-detector/blob/main/broken-link-detector.jar) & [`run-link-checker.sh`](https://github.com/napender/broken-link-detector/blob/main/run-link-checker.sh) in same directory.
 2. Make script executable:
    ```bash
    chmod +x run-link-checker.sh
